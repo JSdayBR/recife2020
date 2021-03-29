@@ -50,6 +50,46 @@
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
+<<<<<<< HEAD
+=======
+  id: 004
+  title: "React state management with hooks, contexts and reducers"
+  description: "Hooks were initially an answer to a question of performance optimization: get rid of classes and only use functional components. The initial goal was to allow state management in a functional components. But turns out hooks offered a whole new way of thinking about components' lifecycles. Learning hooks is a powerful new tool in your React toolbox. You can write your own hooks and you can also master some of the powerful built-in ones. `useContext` and `useReducer` are examples of two new APIs that solve problems that required people to use third-party libraries in the past."
+  subtype: keynote
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 005
+  title: "Indo além de mudanças de cor com testes A/B"
+  description: "Quando falamos de experimentos para aumento de conversão com testes A/B sem lembramos dos clássicos exemplos de mudança de cor do botão, ou alteração de textos. Mas a medida que a cultura de experimentação cresce no time, cada vez mais queremos fazer testes mais complexos. Nessa talk vou apresentar como criamos uma estrutura de testes A/B no Nubank, usando como base ferramentas já conhecidas no mercado."
+  subtype: presentation
+  speakers: [7]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 010
+  title: "Tradução e Interpretação"
+  description: "Não fique preocupado se você não sabe Inglês! O JSDay Brasil vai contar com o tradutor Marlon Vasconcelos, ele vai traduzir e interpretar a palestra do Stoyan 'React state management with hooks, contexts and reducers'."
+  subtype: presentation
+  speakers: [6]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 011
+  title: "Vue.js e design systems em larga escala"
+  description: "Nessa palestra gostaria de compartilhar o que venho aprendendo na Booking.com em relação a manter uma component library em Vue.js. Dicas de como evitar erros que comentemos no início, recomendação de ferramentas úteis para manter alto padrão de qualidade e o que esperar do futuro."
+  subtype: presentation
+  speakers: [8]
+  language: pt-br
+  complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+>>>>>>> parent of 90899ef... Add Carlos as speaker
   id: 000
   title: "Em breve!"
   description: "Estamos selecionando as melhores palestras para você!"
